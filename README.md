@@ -4,6 +4,8 @@
 
 * 首先将本仓库fork到自己的仓库
 
+* C9or本地上，git clone
+
 * 对README进行修改（内容随意） 添加部分文件
 
 * git add .
